@@ -1,0 +1,168 @@
+{
+  "sections": {
+    "1651591545a24b39d3": {
+      "type": "hero-section-big",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-01_at_2.26.42_PM.png",
+        "subheading": "",
+        "title1": "Simple",
+        "title2": "Nutritious",
+        "title3": "Delicious",
+        "content": "<p>We’re dog people, and that’s why we’re working to make life with our dog family even more awesome through a new concept in nourishing them. A solution for the dog food dilemma. Many dog parents (including ourselves) struggle with the age-old dog food conundrum of what to feed our pets for optimal health and enjoyment. We are here to improve the quality of your dog’s life through easy home cooking and make it as special as it is to make homemade meals for your family. We are here to raise your expectations of what a dog food company should be. <\/p>",
+        "button_text": "Shop now",
+        "button_link": "shopify:\/\/collections\/shop",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_center",
+        "text_color": "#000000",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "linear_background": "linear-gradient(180deg, rgba(249, 249, 249, 1) 50%, rgba(255, 255, 255, 1) 50%)",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "16516559680c0645ef": {
+      "type": "team",
+      "blocks": {
+        "db2c5bd3-c740-44f7-9b47-3bb9daf1ff0f": {
+          "type": "team-item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nicole_Dog_Child.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Nicole Marchand",
+            "subtitle": "Founder & CEO",
+            "content": "<p>After over a decade working in capital markets, I had a moment to pause and reflect on my true passions. Being a dog mom, I stopped to wonder why I would cook healthy, nourishing food at home for my family and not include my much loved dog in the equation. Having built deep engagement in the dog community when founding Love Puppies in 2016, a sister not-for-profit that stops the inhumane treatment of dogs at puppy mills, Dog Child was born out of my desire to make cooking at home for our pet easier than ever. Through Dog Child, we aim to empower dog parents to care for their pets as a member of the family — by cooking meals with the peace of mind that their wellbeing is covered, and we are truly giving our pets the very best. <\/p>",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "9c65247b-d46d-4fae-9f7a-dffc6244ed49": {
+          "type": "advisor-item",
+          "settings": {
+            "title": "Dr. Paul Dick",
+            "subtitle": "Veterinarian Advisor",
+            "facebook": "",
+            "instagram": "",
+            "twitter": "",
+            "linkedin": "https:\/\/www.linkedin.com\/in\/dr-paul-dick-924842ab\/",
+            "text_alignment": "center"
+          }
+        },
+        "6cea10da-a80b-4bc9-8540-4b1a3753c514": {
+          "type": "advisor-item",
+          "settings": {
+            "title": "James Pendergast",
+            "subtitle": "Pet Food Consultant",
+            "facebook": "",
+            "instagram": "",
+            "twitter": "",
+            "linkedin": "https:\/\/www.linkedin.com\/in\/james-pendergast-b4a54729",
+            "text_alignment": "center"
+          }
+        },
+        "3092252f-a101-4350-84fb-54ade6d685f4": {
+          "type": "advisor-item",
+          "settings": {
+            "title": "Serge Boutet",
+            "subtitle": "Animal Nutrition Consultant",
+            "facebook": "",
+            "instagram": "",
+            "twitter": "",
+            "linkedin": "https:\/\/ca.linkedin.com\/in\/sergeboutet",
+            "text_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "db2c5bd3-c740-44f7-9b47-3bb9daf1ff0f",
+        "9c65247b-d46d-4fae-9f7a-dffc6244ed49",
+        "6cea10da-a80b-4bc9-8540-4b1a3753c514",
+        "3092252f-a101-4350-84fb-54ade6d685f4"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "Meet The Founder",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "tight",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16516575731f4a62e5": {
+      "type": "image-with-text",
+      "blocks": {
+        "16516575732e794b9a-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_6.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Remastering what it means to give our pets a home cooked meal",
+            "content": "<p>We’ve created the ideal home cooking products to complete your dogs meal. Dog Child creates and develops a range of nutritionally optimal products that contain all of the vitamins and nutrients your dog needs in order to support their overall wellness. No gimmicks. No labelling tricks. No over top names. We keep it simple, straightforward and honest - the modern day luxury for both you and your BFF.<\/p>",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/shop"
+          }
+        }
+      },
+      "block_order": [
+        "16516575732e794b9a-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "#ffffff",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16517361334e1e7b30": {
+      "type": "instagram-app",
+      "blocks": {
+        "00d9c026-5124-4ae8-9749-bd747c45d2e2": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "00d9c026-5124-4ae8-9749-bd747c45d2e2"
+      ],
+      "settings": {
+        "title": "Join Our Dog Child Community",
+        "subtitle": "View our latest posts. #DogChild"
+      }
+    }
+  },
+  "order": [
+    "1651591545a24b39d3",
+    "main",
+    "16516559680c0645ef",
+    "16516575731f4a62e5",
+    "16517361334e1e7b30"
+  ]
+}

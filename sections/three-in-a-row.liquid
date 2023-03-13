@@ -1,0 +1,69 @@
+
+  <style>
+	#shopify-section-{{ section.id }} {
+	  {%- if section.settings.background == 'rgba(0,0,0,0)' -%}
+		{%- assign section_background = settings.background -%}
+	  {%- else -%}
+		{%- assign section_background = section.settings.background -%}
+	  {%- endif -%}
+  
+	  --section-background: {{ section_background.red }}, {{ section_background.green }}, {{ section_background.blue }};
+	  --section-products-per-row: 3;
+	}
+  
+  </style>
+  
+  <section class="section margin-0">
+	<div class="section__color-wrapper">
+	  <div class="container">
+		
+  
+		<div class="featured-collections">
+		  
+			{%- assign collection = section.settings.product_list -%}
+  
+			<product-list  id="block-{{ section.id }}" class="product-list product-list--center">
+			  <div {% unless section.settings.stack_products %}class="scroller"{% endunless %}>
+				<div class="product-list__inner {% unless section.settings.stack_products %}product-list__inner--scroller hide-scrollbar{% endunless %}">
+  
+				  {%- for product in collection -%}
+					<div class="padding-10prc">
+					{%- render 'product-item', product: product, sizes_attribute: sizes_attribute  -%}
+					</div>
+				  {%- endfor -%}
+				</div>
+			  </div>
+  
+			</product-list>
+		  
+		</div>
+	  </div>
+	</div>
+  </section>
+  
+  {% schema %}
+  {
+	"name": "DC Three in-a-row",
+	"class": "shopify-section--featured-collections",
+	"settings": [
+      {
+		"type": "product_list",
+		"id": "product_list",
+		"label": "Select products",
+		"limit": 12
+	  },
+	  {
+		"type": "color",
+		"id": "background",
+		"label": "Background",
+		"default": "rgba(0,0,0,0)"
+	  }
+	],
+	"presets": [
+	  {
+		"name": "DC Three in a row",
+		"settings": {}
+	  }
+	]
+  }
+  {% endschema %}

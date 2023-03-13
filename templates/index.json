@@ -1,0 +1,557 @@
+{
+  "sections": {
+    "16524434616ec3fa3d": {
+      "type": "dc-slider",
+      "blocks": {
+        "1652443461509eab81-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dog_Child_Hero_Full.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Untitled_design_12.png",
+            "text_position": "bottom_left",
+            "subheading": "We make cooking for your dog simple, nutritious and delicious. In just 15 minutes, you can make tasty meals with our meal mixes by adding ground protein, water and oil.",
+            "title": "<p>GIVE YOUR DOG THE NUTRITION THEY DESERVE<\/p>",
+            "button_1_text": "Shop meal mixes",
+            "button_1_link": "shopify:\/\/collections\/meal-mixes",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#2e2e2e",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "1652443461509eab81-0"
+      ],
+      "settings": {
+        "section_height": "fit",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "165098453113eb0f93": {
+      "type": "hero-section",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/Dog_Child_Hero_Full.jpg",
+        "subheading": "",
+        "title": "Healty food for happy dogs",
+        "content": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+        "button_text": "Shop meal mixes",
+        "button_link": "",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "bottom_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "f8aee034-6555-4323-a8c9-2ad9d43ad3dd": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/youtu.be\/YghVZZ4LK0k",
+        "image": "shopify:\/\/shop_images\/Meet_Nicole_-_The_Founder_of_Dog_Child_2000_x_1125_px_4.jpg",
+        "background_type": "boxed",
+        "video_size": "medium",
+        "autoplay": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1662099539220d5b94": {
+      "type": "multi-column",
+      "blocks": {
+        "16620995380363b7be-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NationalPost.png",
+            "image_width": 80,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16620995380363b7be-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moderndog_grey.png",
+            "image_width": 80,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16620995380363b7be-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vacouversun.png",
+            "image_width": 85,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/vancouversun.com\/life\/fashion-beauty\/must-love-dogs-canadian-brands-provide-new-options-for-pet-parents",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16620995380363b7be-0",
+        "16620995380363b7be-1",
+        "16620995380363b7be-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "In The News",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "loose",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1650997975587d47ab": {
+      "type": "three-in-a-row",
+      "settings": {
+        "product_list": [
+          "organic-oats-and-berries",
+          "mixed-veggie",
+          "grain-free"
+        ],
+        "background": "#e8dfd8"
+      }
+    },
+    "16510443630ffe2649": {
+      "type": "why-dogchild",
+      "blocks": {
+        "16510443630de35c5b-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Empowerment_Dog_Child.jpg",
+            "image_width": 80,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Empowerment",
+            "content": "<p>Enabling you to cook delicious, nutritionally complete and balanced homemade dog food recipes easier than ever.<\/p>",
+            "link_text": "SHOP MEAL MIXES",
+            "link_url": "shopify:\/\/collections\/meal-mixes",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16510443630de35c5b-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Well_Being_Dog_Child.jpg",
+            "image_width": 80,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Community",
+            "content": "<p>We’re not about preaching or judging, when we suggest that you cook, we support you by providing recipe ideas as well as our favourite tips and tricks.<\/p>",
+            "link_text": "JOIN US",
+            "link_url": "shopify:\/\/pages\/contact",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16510443630de35c5b-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sustainability_Dog_Child.jpg",
+            "image_width": 80,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Sustainability",
+            "content": "<p>Upcycling veggie stems or bruised fruits into meals for the love of our dogs, and the planet too. All of our Meal Mixes are made with certified upcycled Ingredients<\/p>",
+            "link_text": "RECIPES",
+            "link_url": "shopify:\/\/blogs\/recipes",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16510443630de35c5b-0",
+        "16510443630de35c5b-1",
+        "16510443630de35c5b-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "",
+        "title": "Why Dog Child?",
+        "content": "<p>We support the physical and emotional well-being of our dogs through human-inspired self-care.   What better way to show love than a home cooked meal?  We want our dogs to live the best life possible through food. Which is why we formulated a premium range of nutritionally-complete products and recipes that complete your homemade meals.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "tight",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "165104607469636db3": {
+      "type": "shop-the-look",
+      "blocks": {
+        "1651046074a2c5d3e9-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ShopTheLook-Desktop.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/ShopTheLook-Mobile.jpg",
+            "dot_type": "normal",
+            "product_1": "organic-oats-and-berries",
+            "product_1_horizontal_position": 57,
+            "product_1_vertical_position": 38,
+            "product_1_horizontal_position_mobile": 68,
+            "product_1_vertical_position_mobile": 34,
+            "product_2": "mixed-veggie",
+            "product_2_horizontal_position": 57,
+            "product_2_vertical_position": 64,
+            "product_2_horizontal_position_mobile": 69,
+            "product_2_vertical_position_mobile": 66,
+            "product_3": "essential-nutrient-mix",
+            "product_3_horizontal_position": 45,
+            "product_3_vertical_position": 58,
+            "product_3_horizontal_position_mobile": 38,
+            "product_3_vertical_position_mobile": 59
+          }
+        }
+      },
+      "block_order": [
+        "1651046074a2c5d3e9-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "label": "Shop the look"
+      }
+    },
+    "1651061949adebf1af": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "c2d04fa0-a6be-4f9c-b9c6-4e869dca5113": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/full-page\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "product_image": true,
+            "take": 2,
+            "label_substitute": "",
+            "color_star": "#ebc577",
+            "color_verified": "",
+            "color_text": "",
+            "color_link": "",
+            "review_ids": "72293344, 72293363",
+            "product_ids": "",
+            "category": "",
+            "product_brand": "",
+            "tags": "",
+            "min_rating": "none",
+            "fill_empty": false,
+            "random": false,
+            "with_photos": false
+          }
+        }
+      },
+      "block_order": [
+        "c2d04fa0-a6be-4f9c-b9c6-4e869dca5113"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true,
+        "color": "#f7f4f1"
+      }
+    },
+    "1651069974d81eca5e": {
+      "type": "recipes-list",
+      "blocks": {
+        "165106997379f778b2-0": {
+          "type": "item",
+          "settings": {
+            "article": "recipes\/eggs-vegetables-casserole"
+          }
+        },
+        "165106997379f778b2-1": {
+          "type": "item",
+          "settings": {
+            "article": "recipes\/dog-child-gravy-topper"
+          }
+        },
+        "165106997379f778b2-2": {
+          "type": "item",
+          "settings": {
+            "article": "recipes\/sweet-potato-and-burger-for-dogs"
+          }
+        }
+      },
+      "block_order": [
+        "165106997379f778b2-0",
+        "165106997379f778b2-1",
+        "165106997379f778b2-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "",
+        "title": "Welcome To The Family",
+        "content": "<p>Looking for inspiration? Check out our delicious Dog Child recipes and  tips to make easy, healthy meals at home. Excited to have you as part of our <a href=\"https:\/\/www.instagram.com\/dogchildco\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/dogchildco\/\">#DogChild<\/a> Community.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "b78f4e9f-0972-470d-bc4f-a717ddf8c9b4": {
+      "type": "dc-slider",
+      "blocks": {
+        "template--16547212656864__b78f4e9f-0972-470d-bc4f-a717ddf8c9b4-16753700139d7f8014-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "mobile_image": "shopify:\/\/shop_images\/9.png",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "4965d2c1-d374-49b4-868c-44b1de53a32a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "mobile_image": "shopify:\/\/shop_images\/7.png",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "682a11ce-b0ab-4267-9590-da1057db918d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "mobile_image": "shopify:\/\/shop_images\/6.png",
+            "text_position": "middle_center",
+            "subheading": "Tell your story",
+            "title": "<p>Slide title<\/p>",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "8e9eef1f-651c-4d47-a7e4-7a9bce8bb71c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "mobile_image": "shopify:\/\/shop_images\/10.png",
+            "text_position": "middle_center",
+            "subheading": "Tell your story",
+            "title": "<p>Slide title<\/p>",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16547212656864__b78f4e9f-0972-470d-bc4f-a717ddf8c9b4-16753700139d7f8014-0",
+        "4965d2c1-d374-49b4-868c-44b1de53a32a",
+        "682a11ce-b0ab-4267-9590-da1057db918d",
+        "8e9eef1f-651c-4d47-a7e4-7a9bce8bb71c"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 7,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "16511320880ea1e39e": {
+      "type": "dc-featured-product",
+      "blocks": {
+        "16511320880e41b2b3-0": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "16511320880e41b2b3-1": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "16511320880e41b2b3-2": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "16511320880e41b2b3-0",
+        "16511320880e41b2b3-1",
+        "16511320880e41b2b3-2"
+      ],
+      "settings": {
+        "product": "meal-mix-bundle",
+        "subheading": "",
+        "title": "",
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_share_buttons": true,
+        "help_page": "feeding-guide",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16511352160e72009e": {
+      "type": "dc-newsletter",
+      "settings": {
+        "reveal_on_scroll": false,
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-07_at_12.09.54_PM.png",
+        "subheading": "Stay Up To Date",
+        "content": "<p>Sign up for our newsletter to access new launches, weekly recipes, DIY treats, tips & tricks that will keep your dog child’s tail wagging. <\/p>",
+        "text_position": "center",
+        "text_alignment": "center",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "#805b37",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "16526952971a79fe5d": {
+      "type": "dc-stripe",
+      "blocks": {
+        "1652695297be957d25-0": {
+          "type": "item",
+          "settings": {
+            "title": "<p>Nutrient Mix<\/p><p>for Gut Health<\/p>",
+            "text_alignment": "center"
+          }
+        },
+        "1652695297be957d25-1": {
+          "type": "item",
+          "settings": {
+            "title": "<p>Superfoods for <\/p><p>Skin & Coat<\/p>",
+            "text_alignment": "center"
+          }
+        },
+        "1652695297be957d25-2": {
+          "type": "item",
+          "settings": {
+            "title": "<p>Picky Eater <\/p><p>Approved<\/p>",
+            "text_alignment": "center"
+          }
+        },
+        "1652695297be957d25-3": {
+          "type": "item",
+          "settings": {
+            "title": "<p>Proudly Made in <\/p><p>Canada<\/p>",
+            "text_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1652695297be957d25-0",
+        "1652695297be957d25-1",
+        "1652695297be957d25-2",
+        "1652695297be957d25-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": 10,
+        "mobile_item_size": "small",
+        "desktop_item_size": "medium",
+        "spacing": "tight",
+        "background": "#9a9c6b",
+        "text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "16524434616ec3fa3d",
+    "165098453113eb0f93",
+    "f8aee034-6555-4323-a8c9-2ad9d43ad3dd",
+    "1662099539220d5b94",
+    "1650997975587d47ab",
+    "16510443630ffe2649",
+    "165104607469636db3",
+    "1651061949adebf1af",
+    "1651069974d81eca5e",
+    "b78f4e9f-0972-470d-bc4f-a717ddf8c9b4",
+    "16511320880ea1e39e",
+    "16511352160e72009e",
+    "16526952971a79fe5d"
+  ]
+}

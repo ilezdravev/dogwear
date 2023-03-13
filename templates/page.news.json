@@ -1,0 +1,428 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "1661288764e7be100b": {
+      "type": "multi-column",
+      "blocks": {
+        "16612887645126c34a-2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-30_at_1.56.51_PM.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Taste Toronto - Aloette and Dog Child are throwing an all-day Block Party for you and your pup",
+            "content": "<p>Dog parents in the area have yet another summer event to look forward to, thanks to the local favourite diner and Dog Child, a new Toronto-based company that crafts healthy Meal Mixes for your furry friends.<\/p>",
+            "link_text": "read article",
+            "link_url": "https:\/\/www.tastetoronto.com\/news\/aloette-dog-child-throwing-a-block-party-for-you-and-your-pup",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16612887645126c34a-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-30_at_1.47.12_PM_39052f85-5c1f-404f-afad-c3e1154430a6.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Vancouver Sun - Must love dogs: Canadian brands provide new options for 'pet parents'",
+            "content": "<p>“I say there’s old-school pet parents and new-school pet parents,” said Nicole Marchand, founder and CEO of the new Toronto-based company <a href=\"https:\/\/dogchild.co\/\" target=\"_blank\">Dog Child<\/a>. “And the new-school parents want these modern, elevated brands.\"<\/p>",
+            "link_text": "read article",
+            "link_url": "https:\/\/vancouversun.com\/life\/fashion-beauty\/must-love-dogs-canadian-brands-provide-new-options-for-pet-parents",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16612887645126c34a-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-11-08_at_10.10.52_AM_deda5aaa-2fb4-4835-937b-45262096b5de.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Dog Gifts for Four-Legged Foodies",
+            "content": "<p>Give your dog the gift of health this season with Dog Child’s Meal Mixes. Dog Child makeshome cooking simple, nutritious, and delicious.Simply add ground protein, water, and oil … Bon Appetite<\/p>",
+            "link_text": "read article",
+            "link_url": "https:\/\/moderndogmagazine.com\/articles\/dog-gifts-four-legged-foodies",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "21f23b6d-bb79-4e6c-98b3-14b4397c14ba": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dog_Child_duo.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Cision - Dog Child enters pet food market with innovative home cooking concept for the modern dog",
+            "content": "<p>Dog Child's meal mixes are for people who believe that happy, healthy dogs start with good nutrition, and that good nutrition starts with cooking. Developed in partnership with a group of leading dog nutritionists and veterinarians...<\/p>",
+            "link_text": "read article",
+            "link_url": "https:\/\/www.newswire.ca\/news-releases\/dog-child-enters-pet-food-market-with-innovative-home-cooking-concept-for-the-modern-dog-860685289.html",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16612887645126c34a-2",
+        "16612887645126c34a-1",
+        "16612887645126c34a-0",
+        "21f23b6d-bb79-4e6c-98b3-14b4397c14ba"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "tight",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1661289902e58a1852": {
+      "type": "multi-column",
+      "blocks": {
+        "16612899013e84e9e6-0": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-30_at_1.53.11_PM.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Yahoo Finance - Dog Child enters pet food market with innovative home cooking concept for the modern dog",
+            "content": "<p>Today, Dog Child announces the launch of innovative meal mixes and a recipe-led community that empower dog parents to cook for their dogs — providing a healthy, delicious, convenient, and sustainable alternative to traditional kibble, freeze-dried, and fresh frozen food.<\/p>",
+            "link_text": "read article",
+            "link_url": "https:\/\/finance.yahoo.com\/news\/dog-child-enters-pet-food-120000828.html",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16612899013e84e9e6-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-30_at_2.00.14_PM_3f27e3eb-5cac-469b-8ff5-379ad3c43c06.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "GlobeNewswire - Toronto Based Pet Food Startup Dog Child Selected by Industry Leading Pet Care Accelerator",
+            "content": "<p>Dog Child, a Canadian pet food company dedicated to helping pet parents cook nutrient rich meals at home, is honoured to have been chosen by Leap Venture Studio as part of its 2022 pet care accelerator program.<\/p>",
+            "link_text": "read article",
+            "link_url": "https:\/\/www.globenewswire.com\/en\/news-release\/2022\/02\/08\/2380854\/0\/en\/Toronto-Based-Pet-Food-Startup-Dog-Child-Selected-by-Industry-Leading-Pet-Care-Accelerator.html",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16612899013e84e9e6-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-30_at_2.02.59_PM_c07aea1f-5f84-47b8-bac3-903ef4ff9cf1.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Pet Food Processing - Dog Child launches home-cooked dog food mixes in Canada",
+            "content": "<p>A new pet food startup is bringing home-cooked meals to the table — for dogs. Dog Child officially launched in the Canadian market on July 14 with a novel approach to homemade, complete-and-balanced dog food with safety, sustainability and convenience in mind.<\/p>",
+            "link_text": "read article",
+            "link_url": "https:\/\/www.petfoodprocessing.net\/articles\/15983-dog-child-launches-home-cooked-dog-food-mixes-in-canada",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "5f4585ed-4d76-484e-9f4a-9ecdbf394309": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-30_at_1.47.12_PM_39052f85-5c1f-404f-afad-c3e1154430a6.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Vancouver Sun - Must love dogs: Canadian brands provide new options for 'pet parents'",
+            "content": "<p>“I say there’s old-school pet parents and new-school pet parents,” said Nicole Marchand, founder and CEO of the new Toronto-based company <a href=\"https:\/\/dogchild.co\/\" target=\"_blank\">Dog Child<\/a>. “And the new-school parents want these modern, elevated brands.\"<\/p>",
+            "link_text": "Read Article",
+            "link_url": "https:\/\/vancouversun.com\/life\/fashion-beauty\/must-love-dogs-canadian-brands-provide-new-options-for-pet-parents",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16612899013e84e9e6-0",
+        "16612899013e84e9e6-1",
+        "16612899013e84e9e6-2",
+        "5f4585ed-4d76-484e-9f4a-9ecdbf394309"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "166129106621e03cbc": {
+      "type": "multi-column",
+      "blocks": {
+        "166129106698ccd155-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-30_at_1.53.11_PM.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Yahoo Finance - Dog Child enters pet food market with innovative home cooking concept for the modern dog",
+            "content": "<p>Today, Dog Child announces the launch of innovative meal mixes and a recipe-led community that empower dog parents to cook for their dogs — providing a healthy, delicious, convenient, and sustainable alternative to traditional kibble, freeze-dried, and fresh frozen food.<\/p>",
+            "link_text": "Read Article",
+            "link_url": "https:\/\/finance.yahoo.com\/news\/dog-child-enters-pet-food-120000828.html",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "166129106698ccd155-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-30_at_1.56.51_PM_bbacb988-1c6a-4899-801f-b6e2a0507719.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Taste Toronto - Aloette and Dog Child are throwing an all-day Block Party for you and your pup",
+            "content": "<p>Dog parents in the area have yet another summer event to look forward to, thanks to the local favourite diner and Dog Child, a new Toronto-based company that crafts healthy Meal Mixes for your furry friends.<\/p>",
+            "link_text": "Read Article",
+            "link_url": "https:\/\/www.tastetoronto.com\/news\/aloette-dog-child-throwing-a-block-party-for-you-and-your-pup",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "166129106698ccd155-2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dog_Child_duo.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Curiosity - One of Toronto’s most popular restaurants is hosting a dog-friendly block party this weekend",
+            "content": "<p>Celebrate the joys of summer with mouthwatering eats and boozy cocktails at this dog-friendly block party on Saturday. Toronto’sLiberty Village Aloettelocation is hosting the party of the summer featuring snack-sized versions of its menu classics and its Espresso Martini Fizz.<\/p>",
+            "link_text": "",
+            "link_url": "https:\/\/curiocity.com\/aloette-block-party-toronto\/",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "166129106698ccd155-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "166129106698ccd155-0",
+        "166129106698ccd155-1",
+        "166129106698ccd155-2",
+        "166129106698ccd155-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16618844574bb7502c": {
+      "type": "multi-column",
+      "blocks": {
+        "1661884457947ca247-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dog_Child_duo.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Cision - Dog Child enters pet food market with innovative home cooking concept for the modern dog",
+            "content": "<p>Dog Child's meal mixes are for people who believe that happy, healthy dogs start with good nutrition, and that good nutrition starts with cooking. Developed in partnership with a group of leading dog nutritionists and veterinarians...<\/p>",
+            "link_text": "Read Article",
+            "link_url": "https:\/\/www.newswire.ca\/news-releases\/dog-child-enters-pet-food-market-with-innovative-home-cooking-concept-for-the-modern-dog-860685289.html",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1661884457947ca247-1": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "b3c6f890-598f-440e-8ed6-01c0ba505948": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-17_at_10.28.16_AM.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "The Wildest - Meet 5 New Innovative Pet Startups",
+            "content": "<p>Toronto-based company Dog Child is remastering what it means to give our pets a home cooked meal by launching simple easy to make meals using upcycled ingredients to empower pet parents to cook nutrient-rich meals at home.<\/p>",
+            "link_text": "READ ARTICLE",
+            "link_url": "https:\/\/www.thewildest.com\/pet-lifestyle\/leap-venture-brands-2022",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1661884457947ca247-0",
+        "1661884457947ca247-1",
+        "b3c6f890-598f-440e-8ed6-01c0ba505948"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "99423ec1-7112-42ac-8ed1-32782b5e43cb": {
+      "type": "multi-column",
+      "blocks": {
+        "template--16547212919008__99423ec1-7112-42ac-8ed1-32782b5e43cb-1667919918ffe9e3ff-1": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--16547212919008__99423ec1-7112-42ac-8ed1-32782b5e43cb-1667919918ffe9e3ff-0": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--16547212919008__99423ec1-7112-42ac-8ed1-32782b5e43cb-1667919918ffe9e3ff-2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--16547212919008__99423ec1-7112-42ac-8ed1-32782b5e43cb-1667919918ffe9e3ff-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-30_at_1.53.11_PM.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Strategy Online - Dog Child wants you to meal prep for your pooch",
+            "content": "<p>What turned that dissatisfaction into the idea for Dog Child was fresh food delivery, thinking that the same or a similar option should be available for pets. That also came down to the presentation and value, as the packaging in traditional pet food was bulky, and it was expensive.<\/p>",
+            "link_text": "read article",
+            "link_url": "https:\/\/strategyonline.ca\/2022\/07\/19\/dog-child-wants-you-to-meal-prep-for-your-pooch\/",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--16547212919008__99423ec1-7112-42ac-8ed1-32782b5e43cb-1667919918ffe9e3ff-1",
+        "template--16547212919008__99423ec1-7112-42ac-8ed1-32782b5e43cb-1667919918ffe9e3ff-0",
+        "template--16547212919008__99423ec1-7112-42ac-8ed1-32782b5e43cb-1667919918ffe9e3ff-2",
+        "template--16547212919008__99423ec1-7112-42ac-8ed1-32782b5e43cb-1667919918ffe9e3ff-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1661288764e7be100b",
+    "1661289902e58a1852",
+    "166129106621e03cbc",
+    "16618844574bb7502c",
+    "99423ec1-7112-42ac-8ed1-32782b5e43cb"
+  ]
+}

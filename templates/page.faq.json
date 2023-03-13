@@ -1,0 +1,351 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "8f929425-df53-4932-bece-b89ba5fde7cc": {
+          "type": "category",
+          "settings": {
+            "title": "Our Food"
+          }
+        },
+        "7036ee99-22f8-4b4f-ba03-fce0833dc0d1": {
+          "type": "question",
+          "settings": {
+            "title": "What is the difference between the Meal Mixes and Essential Nutrient Mix?",
+            "answer": "<p>The Meal Mixes are our easiest home cooking solution. You only need to add the protein, water and oil. They have all the fruits & vegtables pre-mixed in to create a complete and balanced meal. <\/p><p>The Essential Nutrient Mix is our foundational nutrient mix. It allows you to cook for your dog from scratch using a variety of recipes. The Essential Nutrient recipes require more ingredients, but give you complete control over your dogs meals. When our recipes are followed, the Essential Nutrient Mix also creates a complete and balanced meal. <\/p>"
+          }
+        },
+        "9644cbd1-231e-4afd-baf7-2c8034be4ab8": {
+          "type": "question",
+          "settings": {
+            "title": "Are your products complete and balanced?",
+            "answer": "<p>Yes!  If the cooking instructions and ingredients are followed correctly, our Meal Mixes and Essential Nutrient Mix are formulated to make complete and balanced meals.  Otherwise they are for supplemental feeding only.<\/p>"
+          }
+        },
+        "f7be204c-c510-4466-849b-2819192723d2": {
+          "type": "question",
+          "settings": {
+            "title": "Can I add any protein to the meal mixes?",
+            "answer": "<p>To ensure your meal is complete and balanced, you can choose between ground chicken 10% fat content, ground turkey 10% fat content, ground beef 10% fat content, ground lamb 20% fat content and ground pork 14% fat content.  You can use our <a href=\"https:\/\/dogchild.co\/blogs\/recipes\/dog-child-egg-and-fish-meal-mix\" target=\"_blank\" title=\"https:\/\/dogchild.co\/blogs\/recipes\/dog-child-egg-and-fish-meal-mix\">cod and egg recipe<\/a> with our Grain Free and Organic Oats and Berries.  If you use other proteins the meals will be for supplementary feeding only. <\/p>"
+          }
+        },
+        "f1fbbd75-e2f9-4c3d-bff4-c92c83833985": {
+          "type": "question",
+          "settings": {
+            "title": "Can I add any oils?",
+            "answer": "<p>To ensure your meal is complete and balanced, you add <a href=\"\/products\/native-pet-omega-oil\" title=\"Omega Oil for Dogs\"><span style=\"text-decoration:underline\">Omega Oil<\/span><\/a> when cooking with ground chicken and turkey, and Olive Oil when cooking with ground lamb and beef & cod\/ fish.<\/p>"
+          }
+        },
+        "42b1916b-e721-44dd-bd5c-be3d9cc1f568": {
+          "type": "question",
+          "settings": {
+            "title": "How do I serve Dog Child Meal Mixes?",
+            "answer": "<p>After adding in your protein, water and oil, let the meal cool before serving. If you pre-made your meal mix and stored it in the fridge or freezer, let it thaw and come to room temperature before serving. When ready, simply scoop the appropriate portion based on the serving guidelines on the package and serve. <\/p>"
+          }
+        },
+        "cd471ea1-82c9-4da5-afc0-d76cb721cbe3": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use it with my own homemade recipes?",
+            "answer": "<p>If you are using your own recipes, use it as supplemental feeding.   For the Essential Nutrient Mix, our guidelines are to add 6g of Dog Child Essential Nutrient Mix to 100g of a non-balanced home-made mixture of meat and carbohydrate sources (veggies, fruits, grains, other carbohydrate sources). As we can't verify the ingredients you use, we recommend this be used for supplementary feeding only.  <\/p>"
+          }
+        },
+        "a01b6f51-21df-448d-88cc-6d71b1e1a814": {
+          "type": "question",
+          "settings": {
+            "title": "How do I store my cooked meals?",
+            "answer": "<p>You can store your cooked meals in the fridge for 2-3 days or the freezer for 30 days. <\/p>"
+          }
+        },
+        "49e018bd-f854-4f69-88dd-0e4ad5de6061": {
+          "type": "question",
+          "settings": {
+            "title": "How should I store my Meal Mix?",
+            "answer": "<p>Store your Meal Mix indoors, in a cool, dark place. Use a resealable container constructed or tightly seal the original packaging after opening. Prolonged exposure to higher temperatures increases oxidation and reduces shelf life, as does exposure to direct sunlight. Refrigeration of the dry powder is not needed.<\/p>"
+          }
+        },
+        "73b17c7a-781c-400d-a11e-23aa1b9bb835": {
+          "type": "question",
+          "settings": {
+            "title": "Can I feed the Dog Child Meal Mixes to my puppy?",
+            "answer": "<p>Our Meal Mixes are formulated for adult dogs.  We do not recommend feeding our Meal Mixes as the sole source of food to a puppy.<\/p>"
+          }
+        },
+        "bb94f05a-a07e-492a-a2c1-e01f0bc7f1f5": {
+          "type": "question",
+          "settings": {
+            "title": "What additional ingredients can I add?",
+            "answer": "<p>We recommend adding fruits and vegetables by upcycling from your home. These can include broccoli stems, carrot peels, bruised apples etc. Always limit these to 10% of the meal and double check that each ingredient is safe for dog consumption.<\/p>"
+          }
+        },
+        "0f41dd3d-b803-40b1-9e8b-29f7dbda3ab9": {
+          "type": "question",
+          "settings": {
+            "title": "My dog has a health condition - is it safe for them to eat?",
+            "answer": "<p>Dog Child does not not provide veterinary medical diagnosis and treatment for the prevention, correction, or alleviation of disease. ​Dogs with specific health conditions that require personalized recipes should consult a vet before switching meal plans.<\/p>"
+          }
+        },
+        "7cb5f124-ac84-460b-ba4b-397d3b58f2e2": {
+          "type": "question",
+          "settings": {
+            "title": "Can this be fed to my dog with allergies?",
+            "answer": "<p>It is entirely dependent on what your dog is allergic to.  Our founder uses ground lamb which has been great for her dog.  If you are unsure - talk to your vet or consult a nutritionist to find the right blend and protein for your dog.<\/p>"
+          }
+        },
+        "68ccd96b-2c5e-4f50-b55c-63be26247bb2": {
+          "type": "question",
+          "settings": {
+            "title": "Is your food for small and large breeds?",
+            "answer": "<p>Yes, Dog Child Meal Mixes are formulated for small, medium and large breeds. Follow our <a href=\"https:\/\/dogchild.co\/pages\/feeding-guide\" title=\"Feeding Guide\">feeding guide<\/a> and adjust your pets meals according to their weight and activity levels. <\/p>"
+          }
+        },
+        "5feda1a0-c60d-4426-b41c-91eea06c7fd8": {
+          "type": "question",
+          "settings": {
+            "title": "How many Meal Mixes should I order per month?",
+            "answer": "<p>When feeding your Dog Child twice a day, we recommend the following: <\/p><p>Under 20 lbs - 1 Bag<br\/>20-35 lbs - 2 Bags<br\/>35-70 lbs - 3 Bags<br\/>70- 90 lbs - 4-5 Bags<\/p>"
+          }
+        },
+        "d1e0fb02-984b-4e56-a947-7f97e0724862": {
+          "type": "question",
+          "settings": {
+            "title": "Do I need to cook the food?",
+            "answer": "<p>Yes! In order to have a complete and balanced meal you must add cooked ground meat, oil, and water to your Meal Mix.  But if you feed raw you can add it as supplemental feeding.<\/p>"
+          }
+        },
+        "eb98154e-1c7c-49bf-b955-92fc05b688a6": {
+          "type": "question",
+          "settings": {
+            "title": "Can I mix with my dog’s current food?",
+            "answer": "<p>Yes.  Our cooked meals can complement your dog's current food as a topper.  Any amount of fresh food can make a positive difference in your dog’s health.  <\/p>"
+          }
+        },
+        "3ba3b3d2-cce4-4230-a782-8428a7a796c9": {
+          "type": "question",
+          "settings": {
+            "title": "Should I always feed the same protein?",
+            "answer": "<p>We encourage you to mix up your proteins! Rotating proteins adds variety to your dog's diet and will keep them from getting bored and ultimately make them less picky. That said, if your dog prefers one protein over the others, you are welcome to stick with one!<\/p>"
+          }
+        },
+        "335aeee9-2164-460b-92b8-cab9e1463625": {
+          "type": "question",
+          "settings": {
+            "title": "Can I add the Essential Nutrients to my Meal Mix?",
+            "answer": "<p>No. Do not add the Essential Nutrients to the Dog Child Meal Mixes. Our Meal Mixes already have the optimal amount of Essential Nutrients Mix in them. Adding more would unbalance the nutrients and could affect your dog's health. <\/p>"
+          }
+        },
+        "fe906413-c5a4-42af-b9d9-03df9a1338e1": {
+          "type": "question",
+          "settings": {
+            "title": "Are your products AAFCO?",
+            "answer": "<p>Yes, when properly prepared they’ve been formulated to meet or exceed the Adult Maintenance Standards. <\/p>"
+          }
+        },
+        "a0a33562-d610-407b-b285-0558d893cabf": {
+          "type": "question",
+          "settings": {
+            "title": "What are the different flavours?",
+            "answer": "<p>Our Meal Mixes come in three flavours: Organic Oat & Berries, Grain Free, and Mixed Veggie.<\/p>"
+          }
+        },
+        "69ac2e46-84a6-48aa-a75a-e77ec729558f": {
+          "type": "question",
+          "settings": {
+            "title": "Price Comparison",
+            "answer": "<p>For a 15 pound dog: <\/p><p>Fresh Food Delivery Service - $6 a day <\/p><p>Dog Child - $4 a day <\/p><p>Kibble -$0.50 a day <\/p>"
+          }
+        },
+        "a8424a6d-ee34-438d-94c5-7469c61154c3": {
+          "type": "category",
+          "settings": {
+            "title": "Packaging and shipping"
+          }
+        },
+        "1db2e46d-e903-483a-a209-10b8dbe1b8fe": {
+          "type": "question",
+          "settings": {
+            "title": "Where do you ship to?",
+            "answer": "<p>We ship across Canada and while we haven’t formally launched in the U.S.A, we can still ship there.<\/p>"
+          }
+        },
+        "b5d34c37-6004-4bb8-ad3e-f52e55e13c54": {
+          "type": "question",
+          "settings": {
+            "title": "What is the cost for shipping?",
+            "answer": "<p>We ship Dog Child products from a warehouse outside of Toronto using a courier or parcel service.<\/p><p><\/p><p>For orders under $75, there is a flat rate of $5 for orders shipped within Canada and $10 for orders shipped to the U.S.A.<\/p><p><\/p><p>We offer free shipping for orders above $75.<\/p><p><\/p><p><\/p><p><\/p>"
+          }
+        },
+        "25efe12f-c55f-404d-bf10-bb21136955ff": {
+          "type": "question",
+          "settings": {
+            "title": "Where are you located?",
+            "answer": "<p>We are based in Toronto, Ontario, Canada.<\/p>"
+          }
+        },
+        "c4ed116f-127c-4dfc-b885-c18b4b702404": {
+          "type": "question",
+          "settings": {
+            "title": "What Payment Methods do you accept?",
+            "answer": "<p>We accept Visa, Mastercard, American Express and Shopify Pay.<\/p>"
+          }
+        },
+        "7587979f-be36-4e18-b9c1-bf4c5ea508eb": {
+          "type": "question",
+          "settings": {
+            "title": "What if my dog doesn’t like the food?",
+            "answer": "<p>Dogs can take time to transition to a new diet. We recommend testing out the different ground  proteins and slowly adding the new diet to their current diet. <\/p><p>We do have a money back guarantee so feel free to email us to process a return at <a href=\"mailto:woof@dogchild.co\">woof@dogchild.co<\/a>.<\/p>"
+          }
+        },
+        "dd2a8d6c-00b7-4bf1-9a8a-237857c288c6": {
+          "type": "question",
+          "settings": {
+            "title": "What is your return policy?",
+            "answer": "<p>We will gladly accept the return of any products that you are not 100% completely satisfied with for 30 days from the date of purchase.<\/p>"
+          }
+        },
+        "c1c4a1c4-57db-4ec6-9b0f-3d05ba5056c0": {
+          "type": "category",
+          "settings": {
+            "title": "Nutritional Information"
+          }
+        },
+        "b7a92e84-c861-4d93-9385-f7c457938556": {
+          "type": "question",
+          "settings": {
+            "title": "How does Dog Child formulate their mixes?",
+            "answer": "<p>Dog Child’s Meal Mixes are formulated by a team of animal nutritionists and vets. These experts ensure that our recipes are formulated to meet the nutrition pets need to optimize their health and longevity. All ingredients are added with a meaningful purpose. <\/p>"
+          }
+        },
+        "44863563-50a4-4161-8423-00e89576db6a": {
+          "type": "question",
+          "settings": {
+            "title": "Complete Nutritional Guide",
+            "answer": "<p><a href=\"https:\/\/dogchild.co\/pages\/feeding-guide\" target=\"_blank\" title=\"Nutritional Analysis\"><strong>Nutritional Guide<\/strong><\/a><\/p>"
+          }
+        },
+        "088703ef-71c5-48ed-97ba-500b39f2f517": {
+          "type": "category",
+          "settings": {
+            "title": "Subscription Facts"
+          }
+        },
+        "5ef89fee-a5b7-4299-a1c4-04bdc0188314": {
+          "type": "question",
+          "settings": {
+            "title": "How do I pause my subscription?",
+            "answer": "<p>To pause your subscription, log into your account. Go to “Manage Account,” you will see “Manage Subscriptions.” From there you can pause or cancel your subscription. <\/p>"
+          }
+        },
+        "9c9d9253-d441-4d31-ac9e-8cee5756ce7e": {
+          "type": "question",
+          "settings": {
+            "title": "How do I change my delivery address?",
+            "answer": "<p>To change your delivery address, log into your account. Go to “Manage Account,” you will see \"Delivery Addresses.\" From there you can edit your address. If your package has already shipped, email us at <a href=\"mailto:woof@dogchild.co\">woof@dogchild.co<\/a> and we will work on a solution with you. <\/p>"
+          }
+        },
+        "98b966b2-e9fa-44e9-8134-d8d116ec0c13": {
+          "type": "category",
+          "settings": {
+            "title": "Company Info"
+          }
+        },
+        "ae7cc169-95e7-424b-9256-d518738da829": {
+          "type": "question",
+          "settings": {
+            "title": "Legal Name",
+            "answer": "<p>Our Legal Name is:  <br\/>The Animals Kitchen<\/p><p>Located at: <br\/>333 Bay Street, Unit 2400<br\/>Toronto ON, M5H2T6, Canada<\/p>"
+          }
+        },
+        "ef956952-8ccf-48cf-82d2-a2567958b30f": {
+          "type": "category",
+          "settings": {
+            "title": "Dog Child Locations"
+          }
+        },
+        "36c7f251-5314-43ce-b98a-06be20f63443": {
+          "type": "question",
+          "settings": {
+            "title": "Ontario",
+            "answer": "<p><strong>Coco Market <br\/><\/strong><a href=\"https:\/\/shopcoco.ca\/\" target=\"_blank\" title=\"https:\/\/shopcoco.ca\/\">Website<br\/><\/a>1064 Yonge St.<br\/>Toronto, Ontario M4W 2L4, CA<\/p><p><\/p><p><strong>The Dog Bowl <br\/><\/strong><a href=\"https:\/\/thedogbowl.ca\/\" title=\"https:\/\/thedogbowl.ca\/\">Website<\/a> <br\/>984 Dundas St W. Toronto, ON M6J 1W6<\/p><p><\/p><p><strong>Nice Diggz<br\/><\/strong><a href=\"https:\/\/www.nicediggz.com\/\" target=\"_blank\" title=\"https:\/\/www.nicediggz.com\/\">Website<br\/><\/a>571 St. Clair Ave. W. Toronto ON M6C1A3<\/p><p><\/p><p><strong>Little Cheif & Co<br\/><\/strong><a href=\"https:\/\/littlechief.dog\/\" target=\"_blank\" title=\"https:\/\/littlechief.dog\/\">Website<br\/><\/a>63 St Paul St, St. Catharines, ON L2R 3M5<\/p><p><\/p><p><strong>Harbour Hound<br\/><\/strong><a href=\"https:\/\/www.harbourhound.ca\/\" title=\"https:\/\/www.harbourhound.ca\/\">Website<\/a> <br\/>278 Cook St, Meaford, ON N4L 1H4<\/p>"
+          }
+        },
+        "8a8652f9-9283-408f-a581-3a46534db4ec": {
+          "type": "question",
+          "settings": {
+            "title": "Rest of Canada",
+            "answer": "<p><strong>Good Boy Collective <br\/><\/strong><a href=\"https:\/\/shopgoodboy.com\/\" target=\"_blank\" title=\"https:\/\/shopgoodboy.com\/\">Website<br\/><\/a>3633 Main St, Vancouver, BC V5V 3N6<\/p><p><\/p><p><strong>Hapoo<\/strong> <br\/><a href=\"https:\/\/www.hapoo.ca\/\" target=\"_blank\" title=\"https:\/\/www.hapoo.ca\/\">Website <br\/><\/a>2500 Av de l'Esplanade, Mascouche, QC J7K 0T4<\/p><p><\/p><p><strong>East Coast Dog <br\/><\/strong><a href=\"https:\/\/eastcoastdog.ca\/\" target=\"_blank\" title=\"https:\/\/eastcoastdog.ca\/\">Website<br\/><\/a>3180 Isleville St, Halifax, NS B3K 3Y3<\/p><p><\/p><p><strong>Island Dog <br\/><\/strong><a href=\"https:\/\/shopislanddog.com\/\" target=\"_blank\" title=\"https:\/\/shopislanddog.com\/\">Website<br\/><\/a>11017 26 Ave NW, Edmonton, AB T6J 4C1<\/p>"
+          }
+        },
+        "1d6444ca-cbec-472f-b513-250f0603f726": {
+          "type": "question",
+          "settings": {
+            "title": "United States",
+            "answer": "<p><strong>Beasts Feast <br\/><\/strong><a href=\"https:\/\/beastsfeast.com\/\" target=\"_blank\" title=\"https:\/\/beastsfeast.com\/\">Website<br\/><\/a>Chicago<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "8f929425-df53-4932-bece-b89ba5fde7cc",
+        "7036ee99-22f8-4b4f-ba03-fce0833dc0d1",
+        "9644cbd1-231e-4afd-baf7-2c8034be4ab8",
+        "f7be204c-c510-4466-849b-2819192723d2",
+        "f1fbbd75-e2f9-4c3d-bff4-c92c83833985",
+        "42b1916b-e721-44dd-bd5c-be3d9cc1f568",
+        "cd471ea1-82c9-4da5-afc0-d76cb721cbe3",
+        "a01b6f51-21df-448d-88cc-6d71b1e1a814",
+        "49e018bd-f854-4f69-88dd-0e4ad5de6061",
+        "73b17c7a-781c-400d-a11e-23aa1b9bb835",
+        "bb94f05a-a07e-492a-a2c1-e01f0bc7f1f5",
+        "0f41dd3d-b803-40b1-9e8b-29f7dbda3ab9",
+        "7cb5f124-ac84-460b-ba4b-397d3b58f2e2",
+        "68ccd96b-2c5e-4f50-b55c-63be26247bb2",
+        "5feda1a0-c60d-4426-b41c-91eea06c7fd8",
+        "d1e0fb02-984b-4e56-a947-7f97e0724862",
+        "eb98154e-1c7c-49bf-b955-92fc05b688a6",
+        "3ba3b3d2-cce4-4230-a782-8428a7a796c9",
+        "335aeee9-2164-460b-92b8-cab9e1463625",
+        "fe906413-c5a4-42af-b9d9-03df9a1338e1",
+        "a0a33562-d610-407b-b285-0558d893cabf",
+        "69ac2e46-84a6-48aa-a75a-e77ec729558f",
+        "a8424a6d-ee34-438d-94c5-7469c61154c3",
+        "1db2e46d-e903-483a-a209-10b8dbe1b8fe",
+        "b5d34c37-6004-4bb8-ad3e-f52e55e13c54",
+        "25efe12f-c55f-404d-bf10-bb21136955ff",
+        "c4ed116f-127c-4dfc-b885-c18b4b702404",
+        "7587979f-be36-4e18-b9c1-bf4c5ea508eb",
+        "dd2a8d6c-00b7-4bf1-9a8a-237857c288c6",
+        "c1c4a1c4-57db-4ec6-9b0f-3d05ba5056c0",
+        "b7a92e84-c861-4d93-9385-f7c457938556",
+        "44863563-50a4-4161-8423-00e89576db6a",
+        "088703ef-71c5-48ed-97ba-500b39f2f517",
+        "5ef89fee-a5b7-4299-a1c4-04bdc0188314",
+        "9c9d9253-d441-4d31-ac9e-8cee5756ce7e",
+        "98b966b2-e9fa-44e9-8134-d8d116ec0c13",
+        "ae7cc169-95e7-424b-9256-d518738da829",
+        "ef956952-8ccf-48cf-82d2-a2567958b30f",
+        "36c7f251-5314-43ce-b98a-06be20f63443",
+        "8a8652f9-9283-408f-a581-3a46534db4ec",
+        "1d6444ca-cbec-472f-b513-250f0603f726"
+      ],
+      "settings": {
+        "show_navigation": true,
+        "title": "",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq"
+  ]
+}

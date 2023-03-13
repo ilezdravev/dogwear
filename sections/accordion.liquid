@@ -1,0 +1,42 @@
+{% if product.metafields.custom_fields["the_benefits"] != blank %}
+{%- assign image = product.metafields.custom_fields["the_basics_image"] -%}
+<section class="section">
+	<div class="container">
+		<div class="accordion_body">
+		<h2 class="heading h2 bold">The Basics</h2>
+		<div class="accordion">
+			
+			{% for item in product.metafields.custom_fields["the_benefits"] %}
+			
+			{%- if forloop.first -%}
+				<div id="acc_item" class="accordion__item accordion__item--active">
+					<div id="img_item" loading="lazy" class="acc_image acc_image--active">
+						{{image}}
+					</div>
+		  {%- else -%}
+				<div id="acc_item" class="accordion__item">
+					<div id="img_item" loading="lazy" class="acc_image acc_image--active">
+						{{image}}
+					</div>
+			{%- endif -%}
+				  <button class="accordion__btn"> 
+				  	<div class="{%- if forloop.first == true -%}acc_plus acc_plus--active{%- else -%}acc_plus{%- endif -%}"></div>
+					<span class="h5">{{ item["title"] }}</span>
+				  </button>
+				  <div class="accordion__content">
+						{{ item["content"] }}
+				  </div>
+				</div>
+				
+		{%- endfor -%}
+	</div>
+	</div>
+</section>
+{%- endif -%}
+
+{%schema%}
+{
+	"name": "DC Product accordion",
+	"class": "shopify-section--product-accordion"
+}
+{%endschema%}

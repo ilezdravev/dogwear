@@ -1,0 +1,71 @@
+{
+  "sections": {
+    "ambassador-form": {
+      "type": "ambassador-form",
+      "blocks": {
+        "01950a7c-6158-46f4-94f6-502226bee966": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "title": "Choose a subject",
+            "values": "Product Question, Feeding \/ Recipe Enquiry, Media Request, Collaboration Request, Other"
+          }
+        },
+        "fe34c775-18e7-45a6-9dfb-115db6376b76": {
+          "type": "text",
+          "settings": {
+            "title": "Phone #",
+            "use_long_text": false,
+            "is_required": false
+          }
+        },
+        "bfc667b4-746e-407b-81b1-d6fcc6e3aac5": {
+          "type": "text",
+          "settings": {
+            "title": "Website",
+            "use_long_text": false,
+            "is_required": false
+          }
+        },
+        "f753a29f-6e3a-4dd5-8a2e-e67b5af665a7": {
+          "type": "text",
+          "settings": {
+            "title": "Social media links (each link on new line)",
+            "use_long_text": true,
+            "is_required": false
+          }
+        }
+      },
+      "block_order": [
+        "01950a7c-6158-46f4-94f6-502226bee966",
+        "fe34c775-18e7-45a6-9dfb-115db6376b76",
+        "bfc667b4-746e-407b-81b1-d6fcc6e3aac5",
+        "f753a29f-6e3a-4dd5-8a2e-e67b5af665a7"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Dog_Child_Ambassador.jpg",
+        "title": "Ambassador program",
+        "content": "<p>Complete the below application to begin your parnership with Dog Child.<\/p>",
+        "text_1_heading": "",
+        "text_1_text": "",
+        "text_2_heading": "",
+        "text_2_text": "",
+        "background": "linear-gradient(180deg, rgba(247, 244, 241, 1) 60%, rgba(255, 255, 255, 1) 60%)",
+        "text_color": "#0d0d0d",
+        "button_background": "#0d0d0d",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    }
+  },
+  "order": [
+    "ambassador-form",
+    "main"
+  ]
+}

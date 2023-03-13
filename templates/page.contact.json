@@ -1,0 +1,86 @@
+{
+  "sections": {
+    "165696403962bcb503": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1655312029081cceec": {
+      "type": "dc-newsletter",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-17_at_12.32.03_PM_b6352967-645c-4342-bc1a-a2429cfab129.png",
+        "subheading": "Stay Up To Date",
+        "content": "<p>Sign up for our newsletter to access new launches, weekly recipes, DIY treats, tips & tricks that will keep your dog child’s tail wagging. <\/p>",
+        "text_position": "center",
+        "text_alignment": "center",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "#805b37",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "7b00c801-c0cb-49ca-b827-ce0f3e59ef53": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "Find Our Products Near You",
+        "html": "<!-- Start Stockist.co widget -->\n<div data-stockist-widget-tag=\"u15286\">Loading store locator from <a href=\"https:\/\/stockist.co\">Stockist store locator<\/a>...<\/div>\n<script>\/\/ <![CDATA[\n  (function(s,t,o,c,k){c=s.createElement(t);c.src=o;c.async=1;\n  k=s.getElementsByTagName(t)[0];k.parentNode.insertBefore(c,k);\n  })(document,'script','\/\/stockist.co\/embed\/v1\/widget.min.js');\n\/\/ ]]><\/script>\n<!-- End Stockist.co widget -->",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "contact-form": {
+      "type": "contact-form",
+      "blocks": {
+        "01950a7c-6158-46f4-94f6-502226bee966": {
+          "type": "dropdown",
+          "settings": {
+            "title": "Choose a subject",
+            "values": "Product Question, Feeding \/ Recipe Enquiry, Media Request, Collaboration Request, Other"
+          }
+        }
+      },
+      "block_order": [
+        "01950a7c-6158-46f4-94f6-502226bee966"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-01_at_2.33.13_PM.png",
+        "title": "Contact",
+        "content": "<p>If you have any questions, you are always welcome to contact us.<\/p><p>Choose a topic below to send us an e-mail or fill in the form. We will respond as soon as possible.<\/p>",
+        "text_1_heading": "",
+        "text_1_text": "<p><a href=\"\/pages\/faqs\" title=\"FAQs\">View FAQs.<\/a><\/p><p><a href=\"\/pages\/feeding-guide\" title=\"Feeding Guide\">Feeding Guide<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0641\/1747\/3504\/files\/DogChild-Nutritional-Analysis.pdf?v=1653499740\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0641\/1747\/3504\/files\/DogChild-Nutritional-Analysis.pdf?v=1653499740\">Nutritional Information<\/a><\/p>",
+        "text_2_heading": "",
+        "text_2_text": "",
+        "background": "linear-gradient(180deg, rgba(247, 244, 241, 1) 60%, rgba(255, 255, 255, 1) 60%)",
+        "text_color": "#0d0d0d",
+        "button_background": "#0d0d0d",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    }
+  },
+  "order": [
+    "165696403962bcb503",
+    "1655312029081cceec",
+    "7b00c801-c0cb-49ca-b827-ce0f3e59ef53",
+    "contact-form",
+    "main"
+  ]
+}

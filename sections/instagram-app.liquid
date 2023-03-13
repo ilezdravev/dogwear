@@ -1,0 +1,48 @@
+<section class="section pt-0">
+	<header class="section__header  section__header--center">
+		<div class="text-container">
+		{%- if section.settings.title != blank -%}
+			<h3 class="heading h3 bold">{{ section.settings.title }}</h3>
+		{%- endif -%}
+		{%- if section.settings.subtitle != blank -%}
+		<p class="h6">{{ section.settings.subtitle }}</p>
+		{%- endif -%}
+		</div>
+	</header>
+	<div class="container">
+	{%- for block in section.blocks -%}
+		{%- if block.type == '@app' -%}
+			{%- render block -%}
+		{%- endif -%}
+	{%- endfor -%}
+	</div>
+</section>
+
+{% schema %}
+{
+  "name": "DC App section",
+  "class": "shopify-section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title"
+    },
+	{
+	  "type": "text",
+	  "id": "subtitle",
+	  "label": "Sub title"
+	}
+  ],
+  "blocks": [
+    {
+      "type": "@app"
+	}
+  ],
+  "presets": [
+	  {
+		"name": "DC App section"
+	  }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,28 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "blocks": {
+        "46a6e7d8-0dcb-4c86-9ea7-618676ac77b5": {
+          "type": "collection",
+          "settings": {
+            "collection": "meal-mixes",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "46a6e7d8-0dcb-4c86-9ea7-618676ac77b5"
+      ],
+      "settings": {
+        "collections_to_show": "selected",
+        "show_collection_title": true
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

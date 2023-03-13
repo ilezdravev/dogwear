@@ -1,0 +1,268 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "ad733bc5-8a18-4d82-a296-924fa06c9afe": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/star-rating-badge\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "use_metafields": false,
+            "sku_tagtype": "sku",
+            "is_featured_product": false,
+            "featured_product_handle": ""
+          }
+        },
+        "df038b8c-55ce-446e-ba01-ca9e3519d351": {
+          "type": "description",
+          "settings": {}
+        },
+        "6973ad8b-58f6-45d5-a191-d24f2b0a8390": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/feeding-guide",
+            "text": "Cooking & Feeding Guide",
+            "stretch": true,
+            "background": "{{ shop.brand.colors.primary[0].foreground }}",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "ad733bc5-8a18-4d82-a296-924fa06c9afe",
+        "df038b8c-55ce-446e-ba01-ca9e3519d351",
+        "6973ad8b-58f6-45d5-a191-d24f2b0a8390",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": false,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "left",
+        "transition_effect": "slide"
+      }
+    },
+    "product_stripe": {
+      "type": "product_stripe",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": 10,
+        "mobile_item_size": "medium",
+        "desktop_item_size": "small",
+        "spacing": "normal",
+        "background": "#9a9c6b",
+        "text_color": "#ffffff"
+      }
+    },
+    "accordion": {
+      "type": "accordion",
+      "disabled": true,
+      "settings": {}
+    },
+    "165185746639f82b06": {
+      "type": "timeline",
+      "blocks": {
+        "1651857466823e4142-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dogchild_HowToUse_1.jpg",
+            "label": "Step 1",
+            "title": "Measure",
+            "content": "<p>In a mixing bowl, measure and pour the correct amount of the Dog Child Mix and rehydrate with warm water.<\/p><p>1 3\/4 Cup Dog Child Meal Mix + 1 Cup Water + 1 lb Protein + 1 Tbsp Oil<\/p><p><a href=\"\/pages\/feeding-guide\" target=\"_blank\" title=\"Feeding Guide\">Consult our feeding guide for more information.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "1651857466823e4142-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-31_at_3.06.14_PM.png",
+            "label": "Step 2",
+            "title": "Cook Protein",
+            "content": "<p>In a pan, thoroughly cook your dog's protein of choice (beef, lamb, pork chicken, turkey or cod + egg).<\/p><p><a href=\"\/pages\/feeding-guide\" target=\"_blank\" title=\"Feeding Guide\">Consult our feeding guide for detailed cooking instructions.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "1651857466823e4142-2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dogchild_HowToUse_3.jpg",
+            "label": "Step 3",
+            "title": "Add Oil",
+            "content": "<p>Measure out and add in the appropriate oil. <\/p><p><a href=\"\/pages\/feeding-guide\" target=\"_blank\" title=\"Feeding Guide\">Consult our feeding guide for more information.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "a5692951-8c91-4676-a670-98cc142cfe00": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dogchild_HowToUse_2.jpg",
+            "label": "Step 3",
+            "title": "Combine",
+            "content": "<p>Mix protein and oil in with the Dog Child Meal Mix. <\/p><p><a href=\"\/pages\/feeding-guide\" target=\"_blank\" title=\"Feeding Guide\">Consult our feeding guide for more information.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "dc923004-07f1-435f-82d6-d992a335b50d": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dogchild_HowToUse_5.jpg",
+            "label": "Bon Appetit",
+            "title": "Serve",
+            "content": "<p>Nurture your pet with goodness, can be served warm or cold. Bon appetit!<\/p><p><a href=\"\/pages\/feeding-guide\" target=\"_blank\" title=\"Feeding Guide\">Consult our feeding guide for more information.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651857466823e4142-0",
+        "1651857466823e4142-1",
+        "1651857466823e4142-2",
+        "a5692951-8c91-4676-a670-98cc142cfe00",
+        "dc923004-07f1-435f-82d6-d992a335b50d"
+      ],
+      "settings": {
+        "subheading": "Follow these simple steps for the perfect meal, everytime.",
+        "title": "How to use",
+        "text_position": "middle",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "item_background": "rgba(0,0,0,0)",
+        "item_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "a79a332b-f21f-468b-a29a-ee26a6ebb9cf": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/youtu.be\/YghVZZ4LK0k",
+        "image": "shopify:\/\/shop_images\/Meet_Nicole_-_The_Founder_of_Dog_Child_2000_x_1125_px_4.jpg",
+        "background_type": "boxed",
+        "video_size": "medium",
+        "autoplay": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "recipes-related": {
+      "type": "recipes-related",
+      "settings": {
+        "subheading": "Browse and try these recipes from our community.",
+        "title": "Recipe Inspiration",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#f7f4f1",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "disabled": true,
+      "blocks": {
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "description"
+      ],
+      "settings": {}
+    },
+    "165174330383c470f9": {
+      "type": "instagram-app",
+      "blocks": {
+        "d4ee9beb-9f92-418a-bd26-edc88fb2ac4c": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
+          }
+        }
+      },
+      "block_order": [
+        "d4ee9beb-9f92-418a-bd26-edc88fb2ac4c"
+      ],
+      "settings": {
+        "title": "Reviews",
+        "subtitle": ""
+      }
+    },
+    "cf4684a6-3c86-45d2-be72-0de99da6493d": {
+      "type": "instagram-app",
+      "settings": {
+        "title": "Join Our Dog Child Community",
+        "subtitle": "View our latest posts. #DogChild"
+      }
+    },
+    "16572077452e274c36": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product_stripe",
+    "accordion",
+    "165185746639f82b06",
+    "a79a332b-f21f-468b-a29a-ee26a6ebb9cf",
+    "recipes-related",
+    "product-content",
+    "165174330383c470f9",
+    "cf4684a6-3c86-45d2-be72-0de99da6493d",
+    "16572077452e274c36"
+  ]
+}

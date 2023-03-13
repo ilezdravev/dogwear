@@ -1,0 +1,204 @@
+{
+  "sections": {
+    "recipe-banner": {
+      "type": "recipe-banner",
+      "settings": {
+        "show_category": false,
+        "show_share_buttons": true,
+        "blog_header_background": "#f7f4f1",
+        "blog_header_text_color": "#282828"
+      }
+    },
+    "main": {
+      "type": "main-recipe",
+      "settings": {
+        "show_on_scroll_navigation": true,
+        "show_author": true,
+        "show_date": true,
+        "show_share_buttons": true
+      }
+    },
+    "blog-post-comments": {
+      "type": "blog-post-comments",
+      "settings": {
+        "show_gravatar": true
+      }
+    },
+    "165237945268574286": {
+      "type": "recipe-featured-product",
+      "blocks": {
+        "165237945214711a68-0": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "165237945214711a68-1": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "165237945214711a68-2": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "165237945214711a68-0",
+        "165237945214711a68-1",
+        "165237945214711a68-2"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Featured product",
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16522012636ef03b33": {
+      "type": "timeline",
+      "blocks": {
+        "1652201263587eb1dd-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dogchild_HowToUse_1.jpg",
+            "label": "Step 1",
+            "title": "Measure",
+            "content": "<p>In a mixing bowl, measure and pour the correct amount of the Dog Child and rehydrate with warm water.<\/p><p><a href=\"\/pages\/feeding-guide\" title=\"Feeding Guide\">Consult our feeding guide for more info.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "1652201263587eb1dd-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dogchild_HowToUse_2.jpg",
+            "label": "Step 2",
+            "title": "Cook Protein",
+            "content": "<p>In a pan, thoroughly cook your dogs protein of choice (beef, lamb, chicken or turkey).<\/p><p><a href=\"\/pages\/feeding-guide\" title=\"Feeding Guide\">Consult our feeding guide for more info.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "1652201263587eb1dd-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dogchild_HowToUse_3.jpg",
+            "label": "Step 3",
+            "title": "Add Oil",
+            "content": "<p>Measure out and add in the appropriate oil. <\/p><p><a href=\"\/pages\/feeding-guide\" title=\"Feeding Guide\">Consult our feeding guide for more info.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "19ac4dca-81b5-48a0-9ec6-efcad12eafba": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dogchild_HowToUse_4.jpg",
+            "label": "Step 4",
+            "title": "Combine",
+            "content": "<p>Mix protein and oil in with the Dog Child blend. <\/p><p><a href=\"\/pages\/feeding-guide\" title=\"Feeding Guide\">Consult our feeding guide for more info.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "8af1c959-0f51-455d-85aa-b163a9eb30f9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dogchild_HowToUse_5.jpg",
+            "label": "Step 5",
+            "title": "Serve",
+            "content": "<p>Nurture your pet with goodness, can be served warm or cold. Bon appetit!<\/p><p><a href=\"\/pages\/feeding-guide\" title=\"Feeding Guide\">Consult our feeding guide for more info.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1652201263587eb1dd-0",
+        "1652201263587eb1dd-1",
+        "1652201263587eb1dd-2",
+        "19ac4dca-81b5-48a0-9ec6-efcad12eafba",
+        "8af1c959-0f51-455d-85aa-b163a9eb30f9"
+      ],
+      "settings": {
+        "subheading": "Follow these simple steps for the perfect meal, everytime.",
+        "title": "How to use",
+        "text_position": "middle",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "item_background": "rgba(0,0,0,0)",
+        "item_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "165220149652a46932": {
+      "type": "recipes-list",
+      "blocks": {
+        "b8edcebf-9088-4b6a-98a8-6912f1cc6913": {
+          "type": "item",
+          "settings": {
+            "article": "recipes\/peanut-butter-ice-cream-for-dogs"
+          }
+        },
+        "cc8737d9-4634-4e52-be5f-796990faf9cc": {
+          "type": "item",
+          "settings": {
+            "article": "recipes\/blueberry-yogurt-bites"
+          }
+        },
+        "68bbd90e-963f-46d7-80fa-a35e1462f009": {
+          "type": "item",
+          "settings": {
+            "article": "recipes\/broccoli-stems-chicken-pucks"
+          }
+        }
+      },
+      "block_order": [
+        "b8edcebf-9088-4b6a-98a8-6912f1cc6913",
+        "cc8737d9-4634-4e52-be5f-796990faf9cc",
+        "68bbd90e-963f-46d7-80fa-a35e1462f009"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "Browse and try these recipes from our community.",
+        "title": "More Recipes",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#f7f4f1",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "recipe-banner",
+    "main",
+    "blog-post-comments",
+    "165237945268574286",
+    "16522012636ef03b33",
+    "165220149652a46932"
+  ]
+}

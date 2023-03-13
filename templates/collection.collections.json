@@ -1,0 +1,100 @@
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "show_collection_image": false,
+        "show_title": true,
+        "show_collection_description": false,
+        "section_height": "small",
+        "text_width": "medium",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 30,
+        "quick_links": "collections",
+        "quick_links_title": true
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_sort_by": true,
+        "products_per_page": 8,
+        "mobile_products_per_row": "2",
+        "desktop_products_per_row": 4,
+        "show_filters": true,
+        "show_filter_group_name": true,
+        "show_color_swatch": true,
+        "open_first_filter_group": false,
+        "filter_position": "drawer",
+        "promotion_position": "top",
+        "promotion_height": "small"
+      }
+    },
+    "16517374850499422a": {
+      "type": "recipes-list",
+      "blocks": {
+        "d47a4fc2-23c6-4383-8dcc-cdd1761cfc18": {
+          "type": "item",
+          "settings": {
+            "article": "recipes\/yappy-special"
+          }
+        },
+        "04c981d1-9c9f-4224-bb26-9dca4cbcd0fe": {
+          "type": "item",
+          "settings": {
+            "article": "recipes\/lamb-chew"
+          }
+        },
+        "a6482122-d465-42ff-a8e8-cd6d51a21b25": {
+          "type": "item",
+          "settings": {
+            "article": "recipes\/beef-veggie-creation"
+          }
+        }
+      },
+      "block_order": [
+        "d47a4fc2-23c6-4383-8dcc-cdd1761cfc18",
+        "04c981d1-9c9f-4224-bb26-9dca4cbcd0fe",
+        "a6482122-d465-42ff-a8e8-cd6d51a21b25"
+      ],
+      "settings": {
+        "subheading": "Browse and try these recipes from our community.",
+        "title": "Recipe Inspiration",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#f9f9f9",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16517376686ac542a1": {
+      "type": "instagram-app",
+      "blocks": {
+        "d1ca9b9f-df3f-4002-999c-7ce3c51b6f57": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "d1ca9b9f-df3f-4002-999c-7ce3c51b6f57"
+      ],
+      "settings": {
+        "title": "Join OUr DogChild Community",
+        "subtitle": "View our latest posts. #Dogchildren"
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "main",
+    "16517374850499422a",
+    "16517376686ac542a1"
+  ]
+}

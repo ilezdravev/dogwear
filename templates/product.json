@@ -1,0 +1,244 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "ad733bc5-8a18-4d82-a296-924fa06c9afe": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/star-rating-badge\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "use_metafields": false,
+            "sku_tagtype": "sku",
+            "is_featured_product": false,
+            "featured_product_handle": ""
+          }
+        },
+        "df038b8c-55ce-446e-ba01-ca9e3519d351": {
+          "type": "description",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "ad733bc5-8a18-4d82-a296-924fa06c9afe",
+        "df038b8c-55ce-446e-ba01-ca9e3519d351",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": false,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "left",
+        "transition_effect": "slide"
+      }
+    },
+    "product_stripe": {
+      "type": "product_stripe",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": 10,
+        "mobile_item_size": "medium",
+        "desktop_item_size": "small",
+        "spacing": "normal",
+        "background": "#9a9c6b",
+        "text_color": "#ffffff"
+      }
+    },
+    "accordion": {
+      "type": "accordion",
+      "settings": {}
+    },
+    "165185746639f82b06": {
+      "type": "timeline",
+      "blocks": {
+        "1651857466823e4142-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/measure.png",
+            "label": "step 1",
+            "title": "Measure",
+            "content": "<p>Lectus commodo nam amet justo amet tristique. Rhoncus viverra a porttitor diam tempus lorem. Magna diam diam et vitae massa, amet et quisque.<\/p><p><a href=\"#\" title=\"#\">Consult our feeding guide for more info.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "1651857466823e4142-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/put.png",
+            "label": "step 2",
+            "title": "Put",
+            "content": "<p>Lectus commodo nam amet justo amet tristique. Rhoncus viverra a porttitor diam tempus lorem. Magna diam diam et vitae massa, amet et quisque.<\/p><p><a href=\"#\" title=\"#\">Consult our feeding guide for more info.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "1651857466823e4142-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/measure.png",
+            "label": "step 3",
+            "title": "Measure",
+            "content": "<p>Lectus commodo nam amet justo amet tristique. Rhoncus viverra a porttitor diam tempus lorem. Magna diam diam et vitae massa, amet et quisque.<\/p><p><a href=\"#\" title=\"#\">Consult our feeding guide for more info.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "a5692951-8c91-4676-a670-98cc142cfe00": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/put.png",
+            "label": "step 4",
+            "title": "put",
+            "content": "<p>Lectus commodo nam amet justo amet tristique. Rhoncus viverra a porttitor diam tempus lorem. Magna diam diam et vitae massa, amet et quisque.<\/p><p><a href=\"#\" title=\"#\">Consult our feeding guide for more info.<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651857466823e4142-0",
+        "1651857466823e4142-1",
+        "1651857466823e4142-2",
+        "a5692951-8c91-4676-a670-98cc142cfe00"
+      ],
+      "settings": {
+        "subheading": "Follow these simple steps for the perfect meal, everytime.",
+        "title": "How to use",
+        "text_position": "middle",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "item_background": "rgba(0,0,0,0)",
+        "item_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "5f6eb71e-9ac8-4abc-96c1-b8be52ec4521": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/youtu.be\/YghVZZ4LK0k",
+        "image": "shopify:\/\/shop_images\/Meet_Nicole_-_The_Founder_of_Dog_Child_2000_x_1125_px_4.jpg",
+        "background_type": "boxed",
+        "video_size": "medium",
+        "autoplay": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "recipes-related": {
+      "type": "recipes-related",
+      "settings": {
+        "subheading": "Browse and try these recipes from our community.",
+        "title": "Recipe Inspiration",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#f7f4f1",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "description"
+      ],
+      "settings": {}
+    },
+    "165174330383c470f9": {
+      "type": "instagram-app",
+      "blocks": {
+        "0feb3c6e-2a84-4a76-9359-25957940feff": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
+          }
+        }
+      },
+      "block_order": [
+        "0feb3c6e-2a84-4a76-9359-25957940feff"
+      ],
+      "settings": {
+        "title": "Reviews",
+        "subtitle": ""
+      }
+    },
+    "3ad3b745-4d87-4ef3-83d7-1af239c53cf1": {
+      "type": "instagram-app",
+      "blocks": {
+        "258033ff-2051-4399-ad42-06d8bc6978a8": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "258033ff-2051-4399-ad42-06d8bc6978a8"
+      ],
+      "settings": {
+        "title": "Join Our Dog Child Community",
+        "subtitle": "View our latest posts. #DogChild"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product_stripe",
+    "accordion",
+    "165185746639f82b06",
+    "5f6eb71e-9ac8-4abc-96c1-b8be52ec4521",
+    "recipes-related",
+    "product-content",
+    "165174330383c470f9",
+    "3ad3b745-4d87-4ef3-83d7-1af239c53cf1"
+  ]
+}

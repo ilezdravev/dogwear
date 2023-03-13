@@ -1,0 +1,43 @@
+{%- if article.metafields.additional.image_1 != blank -%}
+  {%- assign counter = 0 -%}
+{%- for image in article.metafields.additional -%}
+    
+  {%- if image[1].value != blank -%}
+    {%- assign counter = counter | plus: 1 -%}
+  {%- endif -%}
+{%- endfor -%}
+<style>
+ .items-per-row {
+    --section-items-per-row: {{counter}};
+  }
+  .top-border-section {
+    padding-top: 65px;
+    margin-top: 65px;
+    border-top: 1px solid rgba(0, 0, 0, 0.25);
+  }
+@media screen and (max-width: 740px) {
+  .items-per-row {
+    --section-items-per-row: 1;
+  }
+  .top-border-section {
+    margin-top: 65px;
+    border-top: none;
+  }
+}
+</style>
+<multi-column stack class="multi-column multi-column--pocket-medium multi-column--large multi-column--spacing-normal items-per-row top-border-section">
+  <div class="scroller">
+    <scrollable-content class="multi-column__inner multi-column__inner--center multi-column__inner--scroller recipes-related is-scrollable">
+      {%- for image in article.metafields.additional -%}
+        {%- if image[1].value != blank -%}
+        <div id="block" class="article-item__image-container image-zoom">
+          <div class="multi-column__image-wrapper">
+            <img loading="lazy" sizes="(max-width: 740px), (max-width: 999px)" class="multi-column__image" {% render 'image-attributes', image: image[1], sizes: '200,300,400,500,600,700,800,900,1000,1100,1200' %}>
+          </div>
+        </div>
+      {%- endif -%}
+      {%- endfor -%}
+    </scrollable-content>
+  </div>
+</multi-column>
+{%- endif -%}

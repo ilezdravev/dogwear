@@ -1,0 +1,31 @@
+{
+  "sections": {
+    "main": {
+      "type": "recipes-blog",
+      "settings": {
+        "show_blog_title": true,
+        "show_tags": true,
+        "show_category": true,
+        "show_excerpt": true,
+        "articles_per_page": 9
+      }
+    },
+    "1652799370d9119831": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "Submit your recipe",
+        "html": "<div style=\"margin:0 auto;\" class=\"pxFormGenerator\" id=\"GfXo2h9uFbuoOYqoA3PO1g\"><\/div>",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1652799370d9119831"
+  ]
+}
